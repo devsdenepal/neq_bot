@@ -1,0 +1,42 @@
+SEC504: Hacker Tools, Techniques, and Incident Handling 
+SEC401: Security Essentials - Network, Endpoint, and Cloud 
+FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics 
+SEC275: Foundations: Computers, Technology, & Security 
+SEC560: Enterprise Penetration Testing 
+FOR578: Cyber Threat Intelligence 
+SEC301: Introduction to Cyber Security 
+MGT512: Security Leadership Essentials for Managers 
+LDR512: Security Leadership Essentials for Managers 
+SEC488: Cloud Security Essentials 
+FOR500: Windows Forensic Analysis 
+ICS410: ICS/SCADA Security Essentials 
+FOR509: Enterprise Cloud Forensics and Incident Response 
+MGT514: Security Strategic Planning, Policy, and Leadership 
+SEC530: Defensible Security Architecture and Engineering: Implementing Zero Trust for the Hybrid Enterprise 
+FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques 
+SEC503: Network Monitoring and Threat Detection In-Depth 
+SEC542: Web App Penetration Testing and Ethical Hacking 
+SEC540: Cloud Security and DevSecOps Automation 
+SEC588: Cloud Penetration Testing 
+SEC497: Practical Open-Source Intelligence (OSINT) 
+SEC660: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking 
+MGT414: SANS Training Program for the CISSP Certification 
+LDR414: SANS Training Program for the CISSP Certification 
+SEC510: Public Cloud Security: AWS, Azure, and GCP 
+ICS515: ICS Visibility, Detection, and Response 
+SEC450: Blue Team Fundamentals: Security Operations and Analysis 
+SEC573: Automating Information Security with Python 
+SEC566: Implementing and Auditing Security Frameworks and Controls 
+SEC599: Defeating Advanced Adversaries - Purple Team Tactics & Kill Chain Defenses 
+FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response 
+MGT551: Building and Leading Security Operations Centers 
+LDR551: Building and Leading Security Operations Centers 
+SEC511: Continuous Monitoring and Security Operations 
+SEC555: SIEM with Tactical Analytics 
+SEC541: Cloud Security Attacker Techniques, Monitoring, and Threat Detection 
+SEC522: Application Security: Securing Web Apps, APIs, and Microservices 
+FOR585: Smartphone Forensic Analysis In-Depth  
+SEC595: Applied Data Science and Machine Learning for Cybersecurity Professionals 
+MGT433: Managing Human Risk 
+SEC501: Advanced Security Essentials - Enterprise Defender 
+SEC460: Enterprise and Cloud | Threat and Vulnerability Assessment 
